@@ -5,7 +5,7 @@ This repository contains starting setup for [Bank OCR kata](http://codingdojo.or
 ## The kata as presented on the Coding Dojo web site
 
 This Kata was presented at XP2006 by
-[EmmanuelGaillot](/people/EmmanuelGaillot) and ChristopheThibaut .
+[EmmanuelGaillot](https://codingdojo.org/kata/BankOCR/) and ChristopheThibaut .
 
 ### Problem Description
 
