@@ -33,9 +33,9 @@ tasks.withType<KotlinCompile> {
     }
 }
 
+// needed to see logs in the console during tests
 tasks.withType<Test> {
     testLogging {
         showStandardStreams = true
     }
-    useJUnitPlatform()
 }

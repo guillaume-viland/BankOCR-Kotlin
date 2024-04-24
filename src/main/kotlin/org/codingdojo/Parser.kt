@@ -7,7 +7,7 @@ class Parser {
     private val log = KotlinLogging.logger {}
 
     fun parse(text: String?): String? {
-        log.info { "Enter parsing text: $text" }
+        log.info { "Enter parsing text: \n$text" }
         return null
     }
 
